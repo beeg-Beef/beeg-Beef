@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @beeg-Beef
-- 👀 I’m interested in Oreo's
-- 🌱 I’m currently learning about Oreo's
+- 👀 I’m interested in Oreos
+- 🌱 I’m currently learning about Oreos
 - 💞️ I’m looking to collaborate on Oreo
-- 📫 How to reach me 512-122-222-22
+- 📫 How to reach me 522-222-222-22 (phone number)
 
 <!---
 beeg-Beef/beeg-Beef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
